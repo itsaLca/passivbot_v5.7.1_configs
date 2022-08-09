@@ -1,3 +1,5 @@
+All Credits belong to: github.com/donewiththedollar
+
 * Updates
   * /PBSO/0.1_auenabled_short/ is what I am currently working on, to prevent short side from getting stuck. Previous configurations are still working well on live, 3 out of 15 got stuck on short side. These configurations can help fix this.
   * Please check parameters and do your own backtests, also use proper risk management by keeping total wallet exposures per account below 3.0 on long side, and about 1.5 on short side.
